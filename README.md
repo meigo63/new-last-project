@@ -1,4 +1,4 @@
-![FIFA_Club_of_the_Century002](https://github.com/user-attachments/assets/04a19087-7e78-4121-b6dd-0b7e0756ad4c)<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <title>REAL MADRID</title>
@@ -133,7 +133,3 @@ With the dissolution of the monarchy in 1931, all royal symbols (the crown on th
 </html>
 
 
-![Troféu_da_UEFA_Super_Cup](https://github.com/user-attachments/assets/25abdab3-1a60-4e3f-9105-8026fffbef0e)
-![Real_Madrid_CF2001 svg](https://github.com/user-attachments/assets/bb439ea8-b480-4fec-a1c5-2e20ee906aae)
-![OIP (1)](https://github.com/user-attachments/assets/0f6b0125-4c44-4665-9fff-808187302083)
-![HK_CWB_銅鑼灣_Causeway_Bay_時代廣場_Times_Square_mall_void_exhibition_Juventus_Football_Club_September_2021_SS2_005](https://github.com/user-attachments/assets/d8979ccb-4ecf-4075-9693-7131320dce3c)
