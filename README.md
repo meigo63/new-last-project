@@ -88,15 +88,16 @@ With the dissolution of the monarchy in 1931, all royal symbols (the crown on th
             <h2>About Us</h2>
             <p>Our museum is dedicated To present the greatness of the century club of championships, history and others.</p>
         </section>
+        <div id="slideshow">
+    <img id="slide" src="Real_emblem1902.png" alt="Image Slideshow" width="250">
+</div>
         <section id="contact">
             <h2>Contact Us</h2>
             <p>If you have any questions, feel free to reach out!</p>
             <p>Email: realmadrid@onlinemuseum.com</p>
         </section>
     </main>
-<div id="slideshow">
-    <img id="slide" src="Real_emblem1902.png" alt="Image Slideshow" width="300">
-</div>
+
 <script>
     const images = [
         "Real_emblem1902.png",
