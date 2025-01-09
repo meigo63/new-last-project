@@ -119,6 +119,7 @@ With the dissolution of the monarchy in 1931, all royal symbols (the crown on th
         const timeString = now.toLocaleTimeString();
         document.getElementById("clock").innerText = `Current Time: ${timeString}`;
     }
+    
     setInterval(updateClock, 1000);
     updateClock(); // Initialize immediately
 </script>
